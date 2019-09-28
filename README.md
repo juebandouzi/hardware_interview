@@ -7,7 +7,7 @@
 
 目录
 --
-1. [Apple](./apple.md)
+1. [Apple](./apple_soc_power_team.md)
 
 欢迎分享你在面试中遇见的问题！
 --
