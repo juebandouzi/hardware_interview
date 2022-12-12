@@ -1,7 +1,7 @@
 硬件岗面经分享
 ===
 
-**GitHub 地址:** https://github.com/juebandouzi/hardware_interview_experience_chinese
+**GitHub 地址:** https://github.com/juebandouzi/hardware_interview
 
 **申明：** 给硬件求职者的一份宝典
 
