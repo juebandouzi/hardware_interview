@@ -7,7 +7,9 @@
 
 目录
 --
-1. [Apple](./apple_soc_power_team.md)
+### Apple
+* [SoC Power](./apple/apple_soc_power_team.md)
+* [Pixel Ip Integration](./apple/apple_pixel_ip_team.md) 
 
 欢迎分享你在面试中遇见的问题！
 --

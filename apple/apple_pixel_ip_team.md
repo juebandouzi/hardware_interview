@@ -31,10 +31,10 @@ __Hint: boundary\_optimization, autoungroup, group_path__
 	Given a circuit and input draw the waveform. (can't remember the detailed circuit but easy)
 ###### Question 4
 	Given a waveform draw the circuit.
-		        	 ___________
-	input		____|           |___________
-			    	 ___________________
-	output		____|               	|___________
+	               ___________
+	input     ____|           |___________
+	               _________________
+	output    ____|                 |___________
 __Hint: delay input by 2 cycles and add an OR gate__
 ###### Question 5
 	Use mux to implement OR/AND gate.
